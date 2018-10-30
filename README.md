@@ -21,3 +21,5 @@ These are the test files, according to which your code will be evaluated.
 answer.csv - It is the final csv file which is to be submitted.
 
 Each folder like general_class, sub_class, color, etc contains the code for classifying each respective class.
+
+This repo doesn't contain training and test images.
