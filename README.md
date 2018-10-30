@@ -20,6 +20,6 @@ These are the test files, according to which your code will be evaluated.
 
 answer.csv - It is the final csv file which is to be submitted.
 
-Each folder general_class, sub_class & color contains the code for classifying each respective class. Uptill now i have used ResNet50 architecture for each class. Further for classes on which accuracy is not good, i'll try other architecture accordingly.
+Each folder general_class, sub_class & color contains the code for classifying each respective class. Uptill now i have used ResNet50 architecture for each class. Further for classes on which accuracy is not good, i'll implement other architecture accordingly.
 
 This repo doesn't contain training and test images.
