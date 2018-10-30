@@ -18,21 +18,6 @@ This file includes objects in the same form as in the training set (tag ID, imag
 These are the test files, according to which your code will be evaluated.
 
 
-If you are using COFGA dataset or use any of the knowledge or data published, 
-Please cite the following paper:
+answer.csv - It is the final csv file which is to be submitted.
 
-
-@ARTICLE{2018arXiv180809001D,
- author = {{Dahan}, E. and {Diskin}, T.},
- title = "{COFGA: Classification Of Fine-Grained Features In Aerial Images}",
-
-journal = {ArXiv e-prints}, 
-archivePrefix = "arXiv", eprint = {1808.09001},
- primaryClass = "cs.CV",
- 
-keywords = {Computer Science - Computer Vision and Pattern Recognition},
- year = 2018,
- month = aug, 
-adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180809001D},
- adsnote = {Provided by the SAO/NASA Astrophysics Data System}
-}
+Each folder like general_class, sub_class, color, etc contains the code for classifying each respective class.
